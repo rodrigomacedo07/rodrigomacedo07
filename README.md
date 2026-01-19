@@ -2,7 +2,7 @@
 
 **Product Manager | Digital Products | Strategy • Discovery • Delivery**
 
-Atuo como Product Manager com foco em produtos digitais orientados a resultado, combinando **visão estratégica**, **execução prática** e **maturidade técnica para dialogar de forma profunda com engenharia**.
+Atuo como Product Manager com foco em produtos digitais orientados a resultado, combinando **visão estratégica**, **execução prática** e **fluência técnica para dialogar com engenharia**.
 
 Tenho experiência na construção de produtos do zero, estruturação de MVPs, discovery contínuo e evolução de soluções digitais com base em **dados, contexto de negócio e experiência do usuário**.
 
