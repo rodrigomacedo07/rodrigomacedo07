@@ -1,10 +1,12 @@
 # 👨🏻‍💼 Rodrigo Macedo
 
-**Product Manager | Digital Products | Strategy • Discovery • Growth**
+**Product Manager | Digital Products | Strategy • Discovery • Delivery**
 
-Atuo como Product Manager com foco em produtos digitais orientados a resultado, combinando visão estratégica, execução prática e forte proximidade com tecnologia. Tenho experiência na construção de produtos do zero, estruturação de MVPs, discovery contínuo e evolução de soluções digitais com base em dados, contexto de negócio e experiência do usuário.
+Atuo como Product Manager com foco em produtos digitais orientados a resultado, combinando **visão estratégica**, **execução prática** e **maturidade técnica para dialogar de forma profunda com engenharia**.
 
-Este GitHub funciona como uma extensão do meu portfólio profissional, reunindo **cases reais, artefatos de produto e projetos técnicos** que sustentam minhas decisões como PM.
+Tenho experiência na construção de produtos do zero, estruturação de MVPs, discovery contínuo e evolução de soluções digitais com base em **dados, contexto de negócio e experiência do usuário**.
+
+Este GitHub funciona como uma **extensão prática do meu portfólio profissional**, reunindo **cases reais, artefatos de produto e projetos técnicos** que sustentam minhas decisões como PM.
 
 ---
 
@@ -14,31 +16,41 @@ Este GitHub funciona como uma extensão do meu portfólio profissional, reunindo
 - Product Discovery contínuo
 - Entrevistas com usuários e stakeholders
 - Mapeamento de problemas e oportunidades
-- Jobs To Be Done, hipóteses e validações
+- Jobs To Be Done, hipóteses, validação e aprendizado contínuo
 
 ### 📈 Strategy & Market
 - Definição de visão e posicionamento de produto
 - Análise competitiva (SWOT, PESTEL, benchmarks)
 - Priorização estratégica (RICE, ICE, Impact vs Effort)
-- Roadmaps orientados a objetivos
+- Roadmaps orientados a objetivos e resultados
 
 ### 🚀 Delivery & Execution
 - Escrita de PRDs e documentação funcional
-- Alinhamento com engenharia e design
-- Acompanhamento de desenvolvimento
-- Tomada de decisão com trade-offs claros
+- Definição clara de escopo e critérios de sucesso
+- Alinhamento próximo com engenharia e design
+- Decisões conscientes baseadas em trade-offs
 
-### 📊 Data & Growth
+### 📊 Data & Decision-Making
 - Métricas de produto e negócio
 - Análise de funil e comportamento
-- Experimentação e aprendizado contínuo
-- Uso de dados para priorização e otimização
+- Experimentação, aprendizado e iteração
+- Uso de dados para priorização e evolução
 
-### 🧩 Tech Fluency
-- Next.js, React e TypeScript (nível produto)
-- Integração com Supabase e APIs
-- Noções sólidas de arquitetura, dados e UX
-- Comunicação fluida com times técnicos
+## 🧩 Tech Stack (Applied to Product)
+
+Uso tecnologia como **meio para reduzir incerteza, validar hipóteses e acelerar decisões de produto** — não como fim.
+
+- **Frontend & UX:** React, Next.js, TypeScript  
+  → Prototipação funcional, validação de fluxos e experiência real
+
+- **Backend & Data:** Supabase, PostgreSQL  
+  → Modelagem de dados, regras de negócio e visão sistêmica
+
+- **Product Ops & Delivery:**  
+  PRDs, documentação funcional, integração contínua com engenharia
+
+- **IA aplicada a produto:**  
+  Aceleração de execução, experimentação e aprendizado, com entendimento claro do que está sendo construído
 
 ---
 
